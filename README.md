@@ -1,20 +1,15 @@
-# Run Completed Code
+Decentralized Bank using the Motoko language
 
-1. Make sure dfx is running
+How to run it ?
 
-```
 dfx start --clean
-```
 
-2. Deploy the project
-```
+Then deploy:
 dfx deploy
-```
 
-3. Start NPM
-```
+Finally start NPM
 npm start
-```
+
 
 
 
